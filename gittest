@@ -1,0 +1,8 @@
+create table gittemp
+
+(
+id    varchar2(10) not null,
+text  varchar2(10) null
+);
+
+commit;
